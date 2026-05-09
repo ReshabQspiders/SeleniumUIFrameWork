@@ -19,6 +19,9 @@ public class LearningInvocationCount {
 	public void bloodTest() {
 		System.out.println("---Performing blood test on Patient---");
 	}
-
+	@Test(priority = 4)
+	public void Sampleest() {
+		System.out.println("---Performing blood test on Patient---");
+	}
 
 }
