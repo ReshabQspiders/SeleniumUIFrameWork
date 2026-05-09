@@ -20,7 +20,7 @@ public class LearningInvocationCount {
 		System.out.println("---Performing blood test on Patient---");
 	}
 	@Test(priority = 4)
-	public void Sampleest() {
+	public void SampleTest() {
 		System.out.println("---Performing blood test on Patient---");
 	}
 
